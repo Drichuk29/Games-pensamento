@@ -1,0 +1,23 @@
+body{
+  background-color: rgb(0, 245, 199, 96);
+  font-style: italic
+}
+head{
+  title: text-align: center;
+}
+
+  h1{font-size: 70px; color: #02A8F5; font-family: sans-serif;}
+}
+h2{font-size: 35px; 
+    font-family: #0232F5, #49FF03, #02A8F5, sans-serif; 
+ color: rgb(255, 6, 1, 100);
+}
+#banner{
+  width: 30%;
+  border: 10px solid #990000;
+  height: 200px;
+  margin-left: 500px;
+  padding: 5px;
+
+  }
+
